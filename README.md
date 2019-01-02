@@ -38,8 +38,6 @@ Go through this checklist after creating your repository. It should only take a 
 ### Dotfiles
 - [ ] Do you need a `.gitignore` file?
 - [ ] Do you need an `.npmignore` file?
-- [ ] Do you need an `.eslintrc` and `.eslintignore` file? Have you copied them?
-- [ ] Have you run `npm i --save-dev @orbitdb/eslint-config-orbitdb`?
 
 ### License
 - [ ] Copy the MIT license from the example repo.
