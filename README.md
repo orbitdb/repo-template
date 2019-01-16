@@ -63,7 +63,7 @@ Go through this checklist after creating your repository. It should only take a 
 
 If you think this could be better, please [open an issue](https://github.com/orbitdb/repo-template/issues/new)!
 
-Please note that all interactions in @orbitdb fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
+Please note that all interactions in [@OrbitDB](https://github.com/orbitdb) fall under our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
