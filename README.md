@@ -69,6 +69,7 @@ Go through this checklist after creating your repository. It should only take a 
 
 ### Benchmarks
 - [ ] Are there benchmarks?
+- [ ] Did you run the benchmarks before / after the change or PR?
 
 ### Examples
 - [ ] Is there an example folder with usage examples?
