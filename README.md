@@ -59,6 +59,22 @@ Go through this checklist after creating your repository. It should only take a 
 - [ ] Have you added tests? Are they matched, here?
 - [ ] Have you added a `lint` command, if using [`eslint-config-orbitdb`](https://github.com/orbitdb/eslint-config-orbitdb)?
 
+### Tests
+
+- [ ] Are there automated tests?
+- [ ] ...for the browser as well?
+- [ ] Are those reflected in CI?
+- [ ] Bonus points: Using CircleCI workflows to segment tests?
+- [ ] Extra bonus points: Are you cross-testing dependencies (i.e. are changes in `orbit-db-keystore` tested in `orbit-db` as well
+
+### Benchmarks
+- [ ] Are there benchmarks?
+- [ ] Did you run the benchmarks before / after the change or PR?
+
+### Examples
+- [ ] Is there an example folder with usage examples?
+- [ ] For the browser as well?
+
 ## Contribute
 
 If you think this could be better, please [open an issue](https://github.com/orbitdb/repo-template/issues/new)!
